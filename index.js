@@ -19,5 +19,5 @@ but.addEventListener("mouseover",()=>{
 });
 console.log(m);
 m.addEventListener("click",()=>{
-    alert("haaw baby ... HUM thoda saitaani kya krr diya aapne toh next boy wala hi button dba diya...aapko ye toh nhi krna chahiye tha :( (crying face)");
+    alert("haaw baby ... HUM thoda saitaani kya krr diya aapne toh HATED HIM wala hi button dba diya...aapko ye toh nhi krna chahiye tha :( (crying face)");
 });
